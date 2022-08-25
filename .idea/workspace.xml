@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd1c63ff-98f0-48a0-b9e6-0dd091e9f845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xxl-job.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xxl-job.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xxl-job-admin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxl-job-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xxl-job-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxl-job-core/src/main/java/com/xxl/job/core/util/XxlJobRemotingUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/xxl-job-core/src/main/java/com/xxl/job/core/util/XxlJobRemotingUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/service/jobhandler/SampleXxlJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/service/jobhandler/SampleXxlJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xxl-job" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="release" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yepFzXu7eYNZdB8W9iWFvgCAmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xxl-job-core/src/main/java/com/xxl/job/core" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.330366" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxl.job.core.dao" />
+      <recent name="com.xxl.job.admin.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea-workspace2\xxl-job\xxl-job-core\src\main\java\com\xxl\job\core" />
+      <recent name="D:\idea-workspace2\xxl-job\xxl-job-core\src\main\java\com\xxl\job\core\util" />
+      <recent name="D:\idea-workspace2\xxl-job\xxl-job-executor-samples\xxl-job-executor-sample-springboot\src\main\java\com\xxl\job\executor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XxlJobExecutorApplication">
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.XxlJobAdminApplication" />
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.18561485" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6f6b412c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6f6b412c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@67e3fdaa" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd1c63ff-98f0-48a0-b9e6-0dd091e9f845" name="Default Changelist" comment="" />
+      <created>1632621808267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632621808267</updated>
+      <workItem from="1632621809520" duration="45265000" />
+      <workItem from="1632815347731" duration="5128000" />
+      <workItem from="1633596830816" duration="3950000" />
+      <workItem from="1633669294306" duration="10218000" />
+      <workItem from="1633743271761" duration="618000" />
+      <workItem from="1633744882772" duration="2361000" />
+      <workItem from="1633932650521" duration="17572000" />
+      <workItem from="1634104692212" duration="446000" />
+      <workItem from="1634105158218" duration="4712000" />
+      <workItem from="1634115418137" duration="9681000" />
+      <workItem from="1634278442288" duration="1225000" />
+      <workItem from="1634283668554" duration="701000" />
+      <workItem from="1634519889141" duration="3706000" />
+      <workItem from="1634540103650" duration="23000" />
+      <workItem from="1634542711460" duration="1182000" />
+      <workItem from="1634546315695" duration="1504000" />
+      <workItem from="1634715818737" duration="7000" />
+      <workItem from="1636701282247" duration="1997000" />
+      <workItem from="1639461789441" duration="2722000" />
+      <workItem from="1661306039454" duration="1450000" />
+      <workItem from="1661435440359" duration="7575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
